@@ -2,7 +2,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-12.0-purple)
 ![.NET](https://img.shields.io/badge/.NET-4.7.2-blue)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-2019-red)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-2020-red)
 ![Windows Forms](https://img.shields.io/badge/Windows%20Forms-Desktop-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
