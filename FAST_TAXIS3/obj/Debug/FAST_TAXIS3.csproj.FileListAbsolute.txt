@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\obj\Debug\FAST_TAXIS3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\obj\Debug\FAST_TAXIS3.Properties.Resources.resources
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\obj\Debug\FAST_TAXIS3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\obj\Debug\FAST_TAXIS3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\bin\Debug\FAST_TAXIS3.exe.config
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\bin\Debug\FAST_TAXIS3.exe
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\bin\Debug\FAST_TAXIS3.pdb
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\obj\Debug\FAST_TAXIS3.exe
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\obj\Debug\FAST_TAXIS3.pdb
+C:\Users\User\Desktop\MyProjects\MyCV\Projects_Course_5\Projects_C_5\FAST_TAXIS3\obj\Debug\FAST_TAXIS3.exe.config
